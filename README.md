@@ -1,1 +1,1 @@
-# rozdeleni-programu-c
+# rozdeleni-c-programu
